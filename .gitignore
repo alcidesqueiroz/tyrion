@@ -1,0 +1,14 @@
+# general
+.DS_Store
+.eslintcache
+*.log
+# playground
+
+# Yarn
+yarn-debug.log*
+yarn-error.log*
+.yarn-integrity
+
+# NPM
+npm-debug.log*
+node_modules/
