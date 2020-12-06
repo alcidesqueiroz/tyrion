@@ -1,4 +1,4 @@
-# tyrion [![Build status](https://travis-ci.org/alcidesqueiroz/tyrion.svg?branch=master)](https://travis-ci.org/alcidesqueiroz/tyrion)
+# tyrion [![Build status](https://travis-ci.com/alcidesqueiroz/tyrion.svg?branch=master)](https://travis-ci.com/alcidesqueiroz/tyrion)
 
 > ⚔️  A tiny testing framework created for the article "#LearnByDIY - How to create a JavaScript unit testing framework from scratch"
 

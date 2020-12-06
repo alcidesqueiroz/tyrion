@@ -2,7 +2,7 @@
 .DS_Store
 .eslintcache
 *.log
-# playground
+.nyc_output/
 
 # Yarn
 yarn-debug.log*

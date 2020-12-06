@@ -1,6 +1,6 @@
 {
   "name": "tyrion",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "⚔️ A tiny testing framework",
   "license": "MIT",
   "repository": "alcidesqueiroz/tyrion",
@@ -14,17 +14,17 @@
     "test": "eslint src/**/*.js && tap test.js"
   },
   "dependencies": {
-    "colors": "^1.2.1",
-    "deep-equal": "^1.0.1"
+    "colors": "^1.4.0",
+    "deep-equal": "^2.0.5"
   },
   "devDependencies": {
-    "eslint": "^4.18.2",
-    "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.9.0",
-    "sinon": "^4.5.0",
-    "tap": "^11.1.1"
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "sinon": "^9.2.1",
+    "tap": "^14.11.0"
   },
   "engines": {
-    "node": ">=8.6.0"
+    "node": ">=12"
   }
 }
